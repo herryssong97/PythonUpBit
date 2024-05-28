@@ -7,7 +7,7 @@
     ㅇ 이외 기능 : 매수/매도 최소금액 알림팝업, 에러처리 팝업
 ```
 
-### 05.28</br>
+### 05.28
 pip instal pyupbit, pip install pyqt5</br>
 Upbit : Open Api 자산조회, 주문조회, 주문하기, 출금조회, 입금조회 체크</br>
 특정 IP에서만 주문 가능하도록 IP 주소 등록까지</br>
