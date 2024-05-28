@@ -18,3 +18,5 @@ pyqt5 패키지 속 class 객체 사용</br>
 가격조회 창(text) : Text Edit 위젯 사용 (직접 타이핑 하는 부분)</br>
 조회버튼(button) : Push Button 위젯 사용</br>
 
+qtpy.py
+<img width="315" alt="test" src="https://github.com/herryssong97/PythonUpBit/assets/76979784/470ac807-98a1-40c7-b64c-dba98ef13c5d">
