@@ -5,7 +5,7 @@ from PyQt5.QtWidgets import *
 class Main(QMainWindow) :
     def __init__(self):
         super(Main, self).__init__()
-        self.setGeometry(100, 100, 500, 300)
+        self.setGeometry(100, 100, 300, 300)
         self.setWindowTitle("워밍업 프로그램")
 
         # 시세조회
